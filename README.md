@@ -3,4 +3,6 @@
 Sou dev full-stack, apaixonado por JavaScript e open source.  
 🚀 Atualmente estudando React e GraphQL.
 
-![GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=joaodasilva&show_icons=true&theme=radical)
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+
