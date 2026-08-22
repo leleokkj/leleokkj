@@ -1,4 +1,4 @@
-# 👨‍💻 Leonardo
+# 👨‍💻 L S S
 
 Software Developer focused on building efficient, scalable and high-performance applications.
 
